@@ -1,0 +1,13 @@
+.bg-img-main{
+    background-image: url(../../assets/images/bg1.jpg) !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.input-error{
+    border: 1px solid red !important;
+}
+.csr-ptr{
+    cursor: pointer !important;
+}
